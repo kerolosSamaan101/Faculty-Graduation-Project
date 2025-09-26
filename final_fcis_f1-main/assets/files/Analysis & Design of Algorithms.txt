@@ -1,0 +1,28 @@
+ Course(name: "Analysis & Design of Algorithms", lectures: {
+   'Lecture 1': 'https://drive.google.com/drive/folders/1gbXrmmzLrgp06815soh-Kh7tksiDca70',
+   'Lecture 2':'https://drive.google.com/drive/folders/1R5k7txcAf_qd54xIWwdf9ks85JVTqFZ6',
+   'Lecture 3':'https://drive.google.com/drive/folders/1n6N_f_n8fwCgDXdMZqF0bIRPlUzq_O-O',
+   'Lecture 4':'https://drive.google.com/drive/folders/1yCknRsH7dlGl-nLPnTg4OE8PNV_M99yM',
+   'Lecture 5':'https://drive.google.com/drive/folders/1RD605q_hKOx7ual9sHHpTKaGbhtsYYn1',
+   'Lecture 6':'https://drive.google.com/drive/folders/1U2cPniGgLZebbN98Ac-rCMUszMPra8eC',
+   'Lecture 7':'https://drive.google.com/drive/folders/18bPst_gGP6-O56ahuuOwDkh6thXApvox',
+   'Lecture 8':'https://drive.google.com/drive/folders/1vIjIdlbDLJusvBVCSyT9dJmiN4Mjt2f6',
+   'Lecture 9':'https://drive.google.com/drive/folders/1FT45HcudDOXpqAeVCYFg7a5xSXSkRHQa',
+   'Lecture 10':'https://drive.google.com/drive/folders/1ORIh0YT5FLa6LFw2R8JKGcHaeGRcGcLY',
+
+   'Lecture 11':'https://drive.google.com/drive/folders/1nhmWQ1XKi65BnjLTds7-eE-6klR8DskV',   'Lecture 12':'https://drive.google.com/drive/folders/1TirpbyCbbe0tCujEG6R1pQHkk4dyb2m1',
+
+ },
+     labs: {
+
+   'Lab 1': 'https://drive.google.com/drive/folders/1kxKcOq534htmBQfyV0-teU9TZlRfSLcH',
+   'Lab 2':'https://drive.google.com/drive/folders/1dt_ynzTbcsXg3GtrMmGfrBggNVZzZ4l8',
+   'Lab 3': 'https://drive.google.com/drive/folders/1mRzg2dONoc-BRzxx09gCG-UIqRWP8ZZc',
+   'Lab 4': 'https://drive.google.com/drive/folders/1-Vap4T3BqMdq-T65h80aYra66sOXpA9B',
+   'Lab 5': 'https://docs.google.com/presentation/d/1DQ1tBY5tthWZUyUKdkJiINKNPGz5E5Oj/edit',
+   'Lab 6': 'https://drive.google.com/drive/folders/1gZqB-aKdVQxgZ6wcUBCzTT_RS01hUM0q',
+   'Lab 7': 'https://drive.google.com/drive/folders/1koJT5kvSnPiUB2m7Gi5lNSG2C9CpaKQ9',
+   'Lab 8': 'https://drive.google.com/drive/folders/1DY8gyqEZF2UDDXhCWWvyY5dMZxOi0CY3',
+   'Lab 9': 'https://drive.google.com/drive/folders/1HMrh87wPOMH1a2iX6JDDeWVSgWdFYkRf',
+ }),
+

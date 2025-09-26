@@ -1,0 +1,63 @@
+
+
+ Course(name: "Computer Networks", lectures: {
+   'Lecture 1': 'https://docs.google.com/presentation/d/1j9CpyNCfxbH5v-nbtKVbwPsksxf61lvs/edit#slide=id.p1',
+   'Lecture 2':'https://docs.google.com/presentation/d/1fIDlan1eGy_sR6M9ZpvdNB9xurL_nbiO/edit',
+   'Lecture 3':'https://docs.google.com/presentation/d/1zhKr2KU6B0DI836NGg8zJYDm-Ar5uNLF/edit',
+   'Lecture 4':'https://docs.google.com/presentation/d/1WFlfYgRL0dhF_UltKos-wtsHqkVEJ_Im/edit#slide=id.p1',
+   'Lecture 5':'https://docs.google.com/presentation/d/1z-PryNtskZCMhNNEOxFxqCmVXsA175Mc/edit#slide=id.p1',
+   'Lecture 6':'https://docs.google.com/presentation/d/1Xs_gyB1Lvp_eIoKsYXbXoCvgTdXNZE3b/edit',
+   'Lecture 7':'https://docs.google.com/presentation/d/1zVxFpo6uVEIDVUaUhm--w4NcKCouAgFV/edit',
+   'Lecture 8':'https://docs.google.com/presentation/d/15X2FOBtJaEhj-EiSH-HCAEzRKIjdc070/edit#slide=id.p1',
+   'Lecture 9':'https://docs.google.com/presentation/d/1BkORMAWVNwZgR_zygkZJ5JFvJo9OlT72/edit#slide=id.p1',
+   'Lecture 10':'https://docs.google.com/presentation/d/1ixvSd7Fiu16IAyzbhvUCsrKtMnL4YfOX/edit',
+
+
+
+ },
+     labs: {
+
+   'Lab 1': 'https://drive.google.com/drive/folders/1MOSLlBUs9DFFlx__R33HJhzA07UdRHoe',
+   'Lab 2':'https://drive.google.com/drive/folders/19IkLm0H_Sgdtx8YkYv74G9Q2oKjWngw3',
+   'Lab 3': 'https://drive.google.com/drive/folders/1i9x5udLFask63RsgSgo5nqvMQwCne_FY',
+   'Lab 4': 'https://drive.google.com/drive/folders/101rBZb1-nshLl24u33rHrXMR6uS6t5Yf',
+   'Lab 6': 'https://drive.google.com/drive/folders/1U73OtGziDgYjud0IYWtG_6Kcg3L78OFS',
+   'Lab 7': 'https://drive.google.com/drive/folders/1sSERTyrYrAzJQhamXGmLbaJWoWvfUwOL',
+   'Lab 9': 'https://drive.google.com/drive/folders/1K8mqZpY6MSdYN2EbcIzwtvIyPXPprPWV',
+ }),
+
+  Course(name: "Operating System", lectures: {
+    'Lecture 1': 'https://drive.google.com/drive/folders/1HYv-HTODHmOl3GCiDZJpWiyzh_oDheFT',
+    'Lecture 2':'https://drive.google.com/drive/folders/1MOSLlBUs9DFFlx__R33HJhzA07UdRHoe',
+    'Lecture 3':'https://drive.google.com/drive/folders/1U14ZhLEIJOkS54Xi7YGUFVolpxpR5UG0',
+    'Lecture 4':'https://drive.google.com/drive/folders/1WZA28xz14t3RrYfXgtQ0OwKJ_gHdLKqQ',
+    'Lecture 5':'https://drive.google.com/drive/folders/1W86oEjmMNIsm3y5z82t2wTVEWwMLlK0S',
+    'Lecture 6':'https://drive.google.com/drive/folders/1_e6NfqbGBkCWDhn12smGuMKQqT2zIMpN',
+    'Lecture 7':'https://drive.google.com/drive/folders/1HuPjYwlZnTV6lkyR8X8R1a7Y6wzBe2Wz',
+    'Lecture 8':'https://drive.google.com/drive/folders/1iEjYOCoRL7vM31KbbjyWOJufTPoyOGzp',
+    'Lecture 9':'https://drive.google.com/drive/folders/1nsk3mXafmApX7KSbdt5xY018Ta3HlHVH',
+    'Lecture 10':'https://drive.google.com/drive/folders/1T99vtAUi2VlaRdISnOoV4ZNyqiGf05zG',
+
+
+
+  },
+      labs: {
+
+        'Lab 2':'https://docs.google.com/presentation/d/170M3qoC2UC0LfItnLZz9tAM_JsRGMMH4/edit#slide=id.p1',
+        'Lab 3': 'https://docs.google.com/presentation/d/1_ArihRZBnhkaPpvJp-6PoVA8Jdna4HxS/edit',
+        'Lab 4': 'https://docs.google.com/presentation/d/1HlRfVuezLVGHjMHAA0JbcEWOQQ7rucBp/edit',
+        'Lab 5': 'https://docs.google.com/presentation/d/1bB2h3j67Q73y_zg2KHFNlQCkAjFWhzql/edit#slide=id.p1',
+        'Lab 7': 'https://docs.google.com/presentation/d/1dFSVXUEelFfXH_30soHSN2D7wcj7B9FA/edit#slide=id.p1',
+        'Lab 8': 'https://docs.google.com/presentation/d/16sD9J8b9NgVH_64lnQFF81NNrq9P6Zks/edit#slide=id.p1',
+      }),
+
+  
+
+
+
+
+
+
+
+
+

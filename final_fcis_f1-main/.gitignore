@@ -1,0 +1,119 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.pyo
+*.swp
+*.tmp
+*.bak
+*.lock
+.DS_Store
+Thumbs.db
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ / Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code (optional)
+.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+.generated/
+
+# Android
+/android/.gradle/
+/android/captures/
+/android/gradlew
+/android/gradlew.bat
+/android/local.properties
+/android/key.properties
+/android/app/google-services.json
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# iOS
+/ios/Pods/
+/ios/.symlinks/
+/ios/Flutter/Flutter.framework
+/ios/Flutter/Flutter.podspec
+/ios/ServiceDefinitions.json
+/ios/Runner/GeneratedPluginRegistrant.*
+/ios/Runner.xcworkspace/
+/ios/*.xcuserstate
+
+# macOS
+/macos/Flutter/GeneratedPluginRegistrant.swift
+/macos/Pods/
+/macos/*.xcuserstate
+
+# Windows
+/windows/flutter/generated_plugin_registrant.cc
+/windows/flutter/generated_plugin_registrant.h
+
+# Linux
+/linux/flutter/generated_plugin_registrant.cc
+/linux/flutter/generated_plugin_registrant.h
+
+# Web
+/web/.dart_tool/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Node.js (if used anywhere for backend/frontend)
+/node_modules/
+
+# Python (if you have ML/Backend code)
+/__pycache__/
+/*.pkl
+/*.h5
+/*.pt
+/*.pth
+/*.ckpt
+/*.safetensors
+/.venv/
+/env/
+/venv/
+/.venv/
+/*.egg-info
+.ipynb_checkpoints/
+
+# Archives
+*.zip
+*.tar
+*.gz
+*.7z
+*.rar
+
+# Others
+*.apk
+*.aab
+*.exe
+*.dll
+*.so
+*.dylib
+*.iso
+*.mp4
+*.mov
+*.avi
+*.mkv

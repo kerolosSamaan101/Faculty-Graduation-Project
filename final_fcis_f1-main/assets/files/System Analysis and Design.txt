@@ -1,0 +1,28 @@
+ Course(name: "System Analysis and Design", lectures: {
+   'Lecture 1': 'https://docs.google.com/presentation/d/1oMF3XkW_-gmsl16Hdl1hZChMODa1sz2T/edit#slide=id.p1',
+   'Lecture 2':'https://docs.google.com/presentation/d/1p89sO1v9UUXG3PQHPqCDPUuVVenBEJ96/edit#slide=id.p1',
+   'Lecture 3':'https://docs.google.com/presentation/d/1UlUdUqZ585BwcCAwz5ppvTDmtjLMAtpE/edit#slide=id.p1',
+   'Lecture 4':'https://docs.google.com/presentation/d/1raDDTlIDrP86sH5258od-gvaSdY-3AcC/edit',
+   'Lecture 5':'https://docs.google.com/presentation/d/1DOOIW1_ArmXW3ELWwd808jS0KWKcngzH/edit?rtpof=true',
+   'Lecture 6':'https://docs.google.com/presentation/d/1NxUcG8fE6sPxXkt9jHHJEU8HHpzc97St/edit',
+   'Lecture 7':'https://docs.google.com/presentation/d/1O1_prjZWsjsHoWqUpN7rzyQG5FPnwfnj/edit',
+   'Lecture 8':'https://docs.google.com/presentation/d/1OB_ErU_XYoqR1VaHy2eyGDhDfB2dSmzA/edit?rtpof=true',
+   'Lecture 9':'https://docs.google.com/presentation/d/1BkORMAWVNwZgR_zygkZJ5JFvJo9OlT72/edit#slide=id.p1',
+   'Lecture 10':'https://docs.google.com/presentation/d/1sbeoCe8U7GzRqUsBe55qx8sggOR1AfQ9/edit',
+
+
+
+ },
+     labs: {
+
+   'Lab 1': 'https://docs.google.com/presentation/d/1pDL6NKsRFHp2bPE-I2a5tEIIebzAHaml/edit#slide=id.p1',
+   'Lab 2':'https://docs.google.com/presentation/d/12PcPXheclLpsJvyXgkjiYWoBnJQ3h8Po/edit',
+   'Lab 3': 'https://drive.google.com/drive/folders/1L-vSrF3g3vBIDMf7OU7d8QkpeEtPiUQa',
+   'Lab 4': 'https://docs.google.com/presentation/d/1LHA2zCN1BlBVUjNnukGzBfwnaZK2g_8y/edit',
+   'Lab 5': 'https://docs.google.com/presentation/d/1DQ1tBY5tthWZUyUKdkJiINKNPGz5E5Oj/edit',
+   'Lab 6': 'https://docs.google.com/presentation/d/1NztoAWTKOqdnE1R3LSlYk5QgyWM6R7sS/edit#slide=id.p1',
+   'Lab 7': 'https://docs.google.com/presentation/d/1O2eq88fPwoerLO-zUZICcc_Pjs1VqwZ4/edit',
+   'Lab 8': 'https://docs.google.com/presentation/d/1Msdp1Dg7LQ1lnRxIUxgNt6Eq-sdtngLF/edit',
+   'Lab 9': 'https://docs.google.com/presentation/d/1cjhfFFPNrcZFnvkPjSRYQwGW0ncDvj6l/edit#slide=id.p1',
+ }),
+
