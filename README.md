@@ -23,9 +23,9 @@ The app integrates machine learning models to classify discussions and filter ha
 - **Graduaion Tean**
     - Kerolos Samaan : github Username => kerolosSamaan101
     - Mustafa Hussein : github Username => Mustafa101hussein
+    - Waleed Mohamed : github Username => WaleedMGabr
     - Menna Ibrahim
     - Hajer Essam
-    - Waleed Mohamed
     - Abdalla Mohsen
 
 
