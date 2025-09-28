@@ -18,7 +18,16 @@ The app integrates machine learning models to classify discussions and filter ha
   - Keeps discussions safe and professional.  
 
 - **Student–Graduate Connection**  
-  - Provides a dedicated space for communication, mentorship, and career advice.  
+  - Provides a dedicated space for communication, mentorship, and career advice. 
+
+- **Graduaion Tean**
+    - Kerolos Samaan : github Username => kerolosSamaan101
+    - Mustafa Hussein : github Username => Mustafa101hussein
+    - Menna Ibrahim
+    - Hajer Essam
+    - Waleed Mohamed
+    - Abdalla Mohsen
+
 
 ## Tech Stack  
 - **Frontend:** Flutter (Dart)  
